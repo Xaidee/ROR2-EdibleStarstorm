@@ -1,0 +1,9 @@
+{
+  "name": "EdibleStarstorm",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/Xaidee/ROR2-EdibleStarstorm",
+  "description": "A tiny mod that adds relevant Starstorm 2 items to the FoodRelated tag so that it can be used in Meal cooking recipes!",
+  "dependencies": [
+    "TeamMoonstorm-Starstorm2-0.6.26"
+  ]
+}
